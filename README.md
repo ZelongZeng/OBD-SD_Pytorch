@@ -1,13 +1,13 @@
 
-# "Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning (OBD-SD)" in PyTorch
+# "Improving deep metric learning via self-distillation and online batch diffusion process (OBD-SD)" in PyTorch
 
 ---
 This repository contains all code and implementations used in:
 
 ```
-Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning (OBD-SD)
+Improving deep metric learning via self-distillation and online batch diffusion process (OBD-SD)
 ```
-Paper Link: https://arxiv.org/abs/2211.07566
+Paper Link: https://link.springer.com/article/10.1007/s44267-024-00051-0
 
 ## Some Notes
 If you use this code in your research, please cite:
@@ -184,10 +184,14 @@ For the results using both `PSD` and `OBDP`, we provide models trained in two di
 If you use this project in your research, please cite
 
 ```
-@article{zeng2022self,
-  title={Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning},
-  author={Zeng, Zelong and Yang, Fan and Liu, Hong and Satoh, Shin'ichi},
-  journal={arXiv preprint arXiv:2211.07566},
-  year={2022}
+@article{zeng2024improving,
+  title={Improving deep metric learning via self-distillation and online batch diffusion process},
+  author={Zeng, Zelong and Yang, Fan and Liu, Hong and Satoh, Shin’ichi},
+  journal={Visual Intelligence},
+  volume={2},
+  number={1},
+  pages={1--13},
+  year={2024},
+  publisher={Springer}
 }
 ```
